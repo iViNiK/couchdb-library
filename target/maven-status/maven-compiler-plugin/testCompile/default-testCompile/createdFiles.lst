@@ -1,0 +1,8 @@
+it\vinicioflamini\sharedlib\couchdb\test\ektorp\EktorpTestConfiguration.class
+it\vinicioflamini\sharedlib\couchdb\test\api\AbstractCrudRepositoryTest.class
+it\vinicioflamini\sharedlib\couchdb\test\api\viewresult\ProductFacts.class
+it\vinicioflamini\sharedlib\couchdb\test\model\Product.class
+it\vinicioflamini\sharedlib\couchdb\test\support\DocumentLoaderTest.class
+it\vinicioflamini\sharedlib\couchdb\test\ektorp\EktorpCrudRepositoryTest.class
+it\vinicioflamini\sharedlib\couchdb\test\model\ProductRating.class
+it\vinicioflamini\sharedlib\couchdb\test\api\viewresult\ProductSummary.class

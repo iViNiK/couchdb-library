@@ -1,0 +1,16 @@
+E:\Workspaces\PersonalWorkspace\couchdb-library\src\main\java\it\vinicioflamini\sharedlib\couchdb\internal\AdapterUtils.java
+E:\Workspaces\PersonalWorkspace\couchdb-library\src\main\java\it\vinicioflamini\sharedlib\couchdb\api\exceptions\BulkOperationError.java
+E:\Workspaces\PersonalWorkspace\couchdb-library\src\main\java\it\vinicioflamini\sharedlib\couchdb\api\ViewResult.java
+E:\Workspaces\PersonalWorkspace\couchdb-library\src\main\java\it\vinicioflamini\sharedlib\couchdb\api\ViewResultRow.java
+E:\Workspaces\PersonalWorkspace\couchdb-library\src\main\java\it\vinicioflamini\sharedlib\couchdb\api\EntityInformation.java
+E:\Workspaces\PersonalWorkspace\couchdb-library\src\main\java\it\vinicioflamini\sharedlib\couchdb\ektorp\EktorpCouchViewConfigurer.java
+E:\Workspaces\PersonalWorkspace\couchdb-library\src\main\java\it\vinicioflamini\sharedlib\couchdb\ektorp\EktorpCrudRepository.java
+E:\Workspaces\PersonalWorkspace\couchdb-library\src\main\java\it\vinicioflamini\sharedlib\couchdb\support\GenericEntityInformation.java
+E:\Workspaces\PersonalWorkspace\couchdb-library\src\main\java\it\vinicioflamini\sharedlib\couchdb\model\BaseDocument.java
+E:\Workspaces\PersonalWorkspace\couchdb-library\src\main\java\it\vinicioflamini\sharedlib\couchdb\support\DocumentLoader.java
+E:\Workspaces\PersonalWorkspace\couchdb-library\src\main\java\it\vinicioflamini\sharedlib\couchdb\api\CouchDbCrudRepository.java
+E:\Workspaces\PersonalWorkspace\couchdb-library\src\main\java\it\vinicioflamini\sharedlib\couchdb\api\exceptions\BulkOperationException.java
+E:\Workspaces\PersonalWorkspace\couchdb-library\src\main\java\it\vinicioflamini\sharedlib\couchdb\api\ViewParams.java
+E:\Workspaces\PersonalWorkspace\couchdb-library\src\main\java\it\vinicioflamini\sharedlib\couchdb\ektorp\EktorpEntityInformation.java
+E:\Workspaces\PersonalWorkspace\couchdb-library\src\main\java\it\vinicioflamini\sharedlib\couchdb\api\exceptions\UnsupportedViewParameterException.java
+E:\Workspaces\PersonalWorkspace\couchdb-library\src\main\java\it\vinicioflamini\sharedlib\couchdb\support\SimpleEntityInformation.java

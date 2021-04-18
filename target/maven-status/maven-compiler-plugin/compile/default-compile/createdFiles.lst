@@ -1,0 +1,16 @@
+it\vinicioflamini\sharedlib\couchdb\internal\AdapterUtils.class
+it\vinicioflamini\sharedlib\couchdb\api\EntityInformation.class
+it\vinicioflamini\sharedlib\couchdb\api\ViewResult.class
+it\vinicioflamini\sharedlib\couchdb\ektorp\EktorpEntityInformation.class
+it\vinicioflamini\sharedlib\couchdb\api\ViewResultRow.class
+it\vinicioflamini\sharedlib\couchdb\support\SimpleEntityInformation.class
+it\vinicioflamini\sharedlib\couchdb\api\CouchDbCrudRepository.class
+it\vinicioflamini\sharedlib\couchdb\api\exceptions\UnsupportedViewParameterException.class
+it\vinicioflamini\sharedlib\couchdb\api\exceptions\BulkOperationException.class
+it\vinicioflamini\sharedlib\couchdb\ektorp\EktorpCrudRepository.class
+it\vinicioflamini\sharedlib\couchdb\ektorp\EktorpCouchViewConfigurer.class
+it\vinicioflamini\sharedlib\couchdb\model\BaseDocument.class
+it\vinicioflamini\sharedlib\couchdb\api\exceptions\BulkOperationError.class
+it\vinicioflamini\sharedlib\couchdb\api\ViewParams.class
+it\vinicioflamini\sharedlib\couchdb\support\DocumentLoader.class
+it\vinicioflamini\sharedlib\couchdb\support\GenericEntityInformation.class
